@@ -25,5 +25,5 @@ module multiplexor_test();
         #5; $finish;
     end
 
-    
+   
 endmodule
